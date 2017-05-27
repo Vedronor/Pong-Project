@@ -1,0 +1,7 @@
+Jogador 1: W, S
+
+Jogador 2: T, G
+
+Jogador 3: J, K
+
+Jogador 4: Esquerda, Direita
